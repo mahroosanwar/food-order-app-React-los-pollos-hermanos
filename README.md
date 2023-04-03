@@ -8,4 +8,4 @@ git remote add origin https://github.com/mahroosanwar/food-order-app-React-los-p
 git push -u origin master
 
 
-& deploy on vercel
+& deploy on netlify
